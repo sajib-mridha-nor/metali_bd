@@ -1,6 +1,7 @@
 # Metali (মিতালী) [Social network]
 
-A Flutter project 
+# Owned and operated [Inocop Group](https://inocopgroup.com/)
+
 
 ## Key Features
 
