@@ -1,16 +1,37 @@
-# metali_bd
+# Metali (মিতালী) [Social network]
 
-A new Flutter project.
+A Flutter project 
 
-## Getting Started
+## Key Features
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+* Create and customize profiles with personal details and privacy settings.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* View and interact with posts, photos, and videos from friends and pages.
+ 
+* Share text, photos, and videos. Tag and mention users.
+
+* Send and receive friend requests. Manage friends list.
+
+* Private messages and group chats. Share media and files.
+
+* Create and manage pages and groups for interests and communities.
+
+
+* Alerts for friend requests, messages, and interactions. Customizable settings.
+
+
+## Below are some screenshots of the app view.
+![metali 1](https://github.com/user-attachments/assets/388f5e1e-dbce-4bf8-a074-58c8d6593d74)
+![metali 2](https://github.com/user-attachments/assets/0aa61be5-3c82-4ea8-a0f5-5994f2710a69)
+![mtali 3](https://github.com/user-attachments/assets/0546a3d8-df19-4097-b0a0-11817327819c)
+![metali 4](https://github.com/user-attachments/assets/d512bbc7-e15c-4b5c-8d04-44b7f253df5c)
+
+
+
+
+## Download
+
+You can [download](https://mymetali.com/) the latest installable version of Androids.
+
